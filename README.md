@@ -14,3 +14,7 @@ A cyclic scheduler which assigns a time slice for each task then puts it in bloc
 - Idle task doesn't block at all.
 ![1](https://user-images.githubusercontent.com/29959479/199999579-d87f14b5-6280-4c7c-b4bc-7cbffc46ecf1.PNG)
 
+
+
+https://user-images.githubusercontent.com/29959479/200003570-86956419-6908-4879-858b-3d3a73475b2f.mp4
+
