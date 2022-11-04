@@ -1,0 +1,12 @@
+../Src/msp.c:6:29:SchedStack_Init	0	static,ignoring_inline_asm
+../Src/msp.c:13:6:Init_TaskStack	24	static
+../Src/msp.c:64:6:Init_SystickTimer	24	static
+../Src/msp.c:80:29:change_sp_to_psp	0	static,ignoring_inline_asm
+../Src/msp.c:96:6:task_delay	16	static,ignoring_inline_asm
+../Src/msp.c:111:6:update_global_tick_count	4	static
+../Src/msp.c:117:6:unblock_task	16	static
+../Src/msp.c:132:10:get_psp_value	4	static
+../Src/msp.c:138:6:save_psp_value	16	static
+../Src/msp.c:144:6:update_task	16	static
+../Src/msp.c:164:6:EnableProcessorFaults	4	static
+../Src/msp.c:173:6:schedule_next	4	static

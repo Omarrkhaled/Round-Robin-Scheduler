@@ -1,0 +1,6 @@
+../Src/it.c:5:6:SysTick_Handler	8	static
+../Src/it.c:12:29:PendSV_Handler	0	static,ignoring_inline_asm
+../Src/it.c:35:6:HardFault_Handler	4	static
+../Src/it.c:40:6:UsageFault_Handler	4	static
+../Src/it.c:45:6:MemManage_Handler	4	static
+../Src/it.c:50:6:BusFault_Handler	4	static
